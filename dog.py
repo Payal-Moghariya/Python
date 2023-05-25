@@ -1,5 +1,0 @@
-def bark():
-    print("barking")
-
-    
-
